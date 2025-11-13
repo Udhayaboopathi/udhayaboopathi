@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4F8BFF&center=true&vCenter=true&width=600&lines=Hey+There+👋+I'm+Udhayaboopathi+V;Full+Stack+Developer;Automation+%7C+Backend+Integration+%7C+AI+Solutions;Building+Scalable+and+Intelligent+Web+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4F8BFF&center=true&vCenter=true&width=600&lines=Hey+There+👋+I'm+Udhayaboopathi+V" alt="Typing Animation" />
 </div>
 
 <br />
