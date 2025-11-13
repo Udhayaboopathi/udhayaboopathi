@@ -1,13 +1,9 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F7A400&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Udhayaboopathi+V+👋;Full+Stack+Developer+%7C+AI+Solutions+%7C+Automation;Building+Scalable+%26+Intelligent+Web+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F7A400&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Udhayaboopathi+V+👋" alt="Typing Animation" />
 </div>
 
-<br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l5NWN2bzJraXY2MjNia2J0d3A0MGVybjVpbnZqa2RvY2JpMzczNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Le3Tz2F0vTjCw/giphy.gif" width="420" />
-</p>
 
 ---
 
