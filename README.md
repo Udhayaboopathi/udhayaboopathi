@@ -35,7 +35,6 @@ I'm passionate about:
 ---
 
 # 🛠️ **Tech Stack (Full Developer Spectrum)**  
-*(Just like the example you showed — long, full developer collection)*
 
 ### **Languages**
 C • C++ • Python • JavaScript • TypeScript • Java • Bash • PHP • Dart • Go • Kotlin  
