@@ -1,129 +1,91 @@
-<h1 align="center">Hi, I'm <span style="color:#4f8bfd;">Udhayaboopathi V</span> 👋</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Automation & Backend Integration | AI Solutions</h3>
+<!-- Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4F8BFF&center=true&vCenter=true&width=600&lines=Hey+There+👋+I'm+Udhayaboopathi+V;Full+Stack+Developer;Automation+%7C+Backend+Integration+%7C+AI+Solutions;Building+Scalable+and+Intelligent+Web+Experiences" alt="Typing Animation" />
+</div>
 
-<p align="center">
-  <a href="https://udhayaboopathi.me">🌐 Portfolio</a> •
-  <a href="mailto:udhayaboopathi2003@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Udhayaboopathi">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/udhayaboopathi">🔗 LinkedIn</a>
-</p>
+<br />
 
----
-
-## 🚀 About Me  
-I’m a passionate **Full Stack Developer** from Tamil Nadu, specializing in:
-
-- Automation & backend integrations  
-- Intelligent AI-powered systems  
-- Scalable web applications  
-- Fast, interactive frontend experiences  
-- Cloud-deployed, production-ready solutions  
-
-Focused on building tools that combine **creativity, engineering, and automation** to solve real-world problems.
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-4F8BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation%20Engineer-00D084?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Solutions%20Builder-FF6F61?style=for-the-badge" />
+</div>
 
 ---
 
-## 🧠 Professional Summary  
-Creative and analytical Full Stack Developer experienced in **automation**, **backend workflow integration**, and **AI-assisted development**. Skilled in designing scalable systems, optimizing performance, and using AI tools to accelerate development. I build reliable, efficient, and interactive applications that focus on usability and precision.
+# 🌟 **About Me**
+I’m a **Full Stack Developer** who loves building clean, scalable, and intelligent applications.  
+My work blends **automation**, **backend engineering**, and **AI-powered solutions** to turn ideas into seamless digital products.
+
+💡 *"Code that solves problems + Design that feels alive."*
 
 ---
 
-## 🛠 Technical Skills  
+# ⚡ **Tech Arsenal**
 
-### **Frontend**
-React • Next.js • JavaScript • Tailwind CSS  
+### 🚀 **Languages**
+`Python` • `JavaScript` • `TypeScript` • `Java` • `Bash`
 
-### **Backend**
-FastAPI • Flask • Express.js • Node.js  
+### 🎨 **Frontend**
+`React` • `Next.js` • `JavaScript` • `Tailwind CSS`
 
-### **Languages**
-Python • JavaScript • TypeScript • Java • Bash  
+### 🛠 **Backend**
+`FastAPI` • `Flask` • `Express.js` • `Node.js`
 
-### **Databases**
-MongoDB • PostgreSQL • MySQL  
+### 🗄️ **Databases**
+`MongoDB` • `PostgreSQL` • `MySQL`
 
-### **Cloud & DevOps**
-AWS EC2 • Google Cloud • Azure • CI/CD  
+### ☁️ **Cloud & DevOps**
+`AWS EC2` • `Google Cloud` • `Azure` • `CI/CD Pipelines`
 
-### **AI & Tools**
-OpenAI API • Gemini API • GitHub Copilot • VS Code • Postman  
-
-### **Core Concepts**
-Automation • API Integration • WebSockets • AI/ML APIs • NLP • CI/CD Pipelines  
+### 🤖 **AI & Tools**
+`OpenAI API` • `Gemini API` • `GitHub Copilot` • `Postman` • `VS Code`
 
 ---
 
-## 🎓 Education  
+# 🎓 **Education**
 
-**Master of Science in Computer Science**  
-_Periyar University, Salem_ (2024–2026, Pursuing)
+🎓 **M.Sc. Computer Science (2024–2026)**  
+_Periyar University, Salem_
 
-**Bachelor of Science in Computer Science**  
-_Govt. Arts & Science College, Mettur_ (2021–2024)
-
----
-
-## 🧪 Projects  
-
-### 🔹 **Smart Summarization & Q&A Assistant**  
-**Tech:** React, FastAPI, MongoDB, NLP  
-AI-based study tool that generates summaries and answers contextual questions through optimized text processing.
+🎓 **B.Sc. Computer Science (2021–2024)**  
+_Govt. Arts & Science College, Mettur_
 
 ---
 
-### 🔹 **Discord Bot Automation**  
-**Tech:** Python, discord.py  
-Feature-rich automation bot for community management, commands, and real-time API integration.
+# 💼 **Internship Experience**
+
+### **MERN Stack Intern — Arttifai Tech (15 Days)**
+Built and optimized MERN-based applications, focusing on API integration and database workflows.
+
+### **Digital Marketing Intern — First Success Technology (15 Days)**
+Studied SEO, analytics, content optimization, and online brand strategies.
 
 ---
 
-### 🔹 **Organic Food Recommendation System**  
-**Tech:** FastAPI, HTML, JavaScript, NLP  
-Recommends healthier food alternatives using dataset-driven classification and NLP insights.
-
----
-
-### 🔹 **CodeCrest.tech**  
-**Tech:** React, Tailwind CSS  
-Modern portfolio showcasing 3D animations, smooth transitions, API integrations, and responsive design.
-
----
-
-## 💼 Internship Experience  
-
-### **MERN Stack Intern — Arttifai Tech (15 Days)**  
-Built and optimized MERN-based applications with hands-on experience in API integration and database operations.
-
-### **Digital Marketing Intern — First Success Technology, Salem (15 Days)**  
-Learned SEO, keyword research, analytics, and social media marketing strategies.
-
----
-
-## 📜 Certifications  
-
-### 🟦 **Python Programming** — GUVI (Google for Education Partner), Dec 2022  
-**ID:** 5J38a57TpXn61206i7  
-**Verify:** https://www.guvi.in/certificate?id=5J38a57TpXn61206i7
-
-### 🟩 **Microsoft Office 365 Productivity Suite (Advanced)** — Naan Mudhalvan & Microsoft, Mar 2023  
-https://www.naanmudhalvan.tn.gov.in
-
----
-
-## 🧩 Leadership & Soft Skills  
+# 🧠 **Leadership & Soft Skills**
 - Student President — Dept. of Computer Science  
-- Communication • Teamwork • Problem Solving  
-- Time Management • Innovation • Analytical Thinking  
+- Team Collaboration  
+- Problem Solving  
+- Time Management  
+- Communication  
+- Analytical Thinking  
 
 ---
 
-## 📬 Contact  
+# 📬 **Contact Me**
+
 📍 Salem, Tamil Nadu, India  
 📞 **+91 63692 55254**  
 📧 **udhayaboopathi2003@gmail.com**  
+🌐 **Portfolio:** https://udhayaboopathi.me  
+💼 **LinkedIn:** https://linkedin.com/in/udhayaboopathi  
+💻 **GitHub:** https://github.com/Udhayaboopathi  
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving my repos a star!</p>
+<div align="center">
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <p>Show some ❤️ by starring my repositories!</p>
+</div>
 
-<p align="center">© 2025 Udhayaboopathi — All Rights Reserved</p>
