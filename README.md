@@ -1,44 +1,49 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4F8BFF&center=true&vCenter=true&width=600&lines=Hey+There+👋+I'm+Udhayaboopathi+V" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=F7A400&center=true&vCenter=true&width=650&lines=Hey+There+👋+I'm+Udhayaboopathi+V;Full+Stack+Developer+%7C+Leo+Energy+🔥;Building+Powerful+%26+Bright+Digital+Experiences" alt="Typing Animation" />
 </div>
 
 <br />
 
+<!-- Golden Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-4F8BFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation%20Engineer-00D084?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Solutions%20Builder-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-F7A400?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Engineer-F5C542?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Solutions-Builder-F28C28?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
 
-# 🌟 **About Me**
-I’m a **Full Stack Developer** who loves building clean, scalable, and intelligent applications.  
-My work blends **automation**, **backend engineering**, and **AI-powered solutions** to turn ideas into seamless digital products.
+# ☀️ **About Me**
+I’m a **Full Stack Developer** driven by **Leo-like boldness, creativity, and leadership**.  
+I build applications with **clarity, power, and precision**, blending:
 
-💡 *"Code that solves problems + Design that feels alive."*
+- ⚡ Automation  
+- 🔥 Backend Engineering  
+- 🧠 AI-Powered Intelligence  
+
+💡 *"Where creativity meets technology — radiating confidence like the sun."* ☀️🦁
 
 ---
 
-# ⚡ **Tech Arsenal**
+# 🦁 **Tech Arsenal (Solar Energy Edition)**
 
-### 🚀 **Languages**
+### ⚡ **Languages**
 `Python` • `JavaScript` • `TypeScript` • `Java` • `Bash`
 
-### 🎨 **Frontend**
+### 🌅 **Frontend**
 `React` • `Next.js` • `JavaScript` • `Tailwind CSS`
 
-### 🛠 **Backend**
+### 🔗 **Backend**
 `FastAPI` • `Flask` • `Express.js` • `Node.js`
 
-### 🗄️ **Databases**
+### 🏛 **Databases**
 `MongoDB` • `PostgreSQL` • `MySQL`
 
 ### ☁️ **Cloud & DevOps**
 `AWS EC2` • `Google Cloud` • `Azure` • `CI/CD Pipelines`
 
-### 🤖 **AI & Tools**
+### 🔥 **AI & Tools**
 `OpenAI API` • `Gemini API` • `GitHub Copilot` • `Postman` • `VS Code`
 
 ---
@@ -55,25 +60,25 @@ _Govt. Arts & Science College, Mettur_
 
 # 💼 **Internship Experience**
 
-### **MERN Stack Intern — Arttifai Tech (15 Days)**
-Built and optimized MERN-based applications, focusing on API integration and database workflows.
+### **🔥 MERN Stack Intern — Arttifai Tech (15 Days)**
+Worked on MERN applications with a focus on API integration & DB workflows.
 
-### **Digital Marketing Intern — First Success Technology (15 Days)**
-Studied SEO, analytics, content optimization, and online brand strategies.
+### **☀️ Digital Marketing Intern — First Success Technology (15 Days)**
+Gained insights into SEO, analytics, branding, and digital strategy.
 
 ---
 
 # 🧠 **Leadership & Soft Skills**
-- Student President — Dept. of Computer Science  
-- Team Collaboration  
-- Problem Solving  
-- Time Management  
-- Communication  
-- Analytical Thinking  
+- 🦁 Student President — Dept. of Computer Science  
+- ✨ Team Collaboration  
+- 🔥 Problem Solving  
+- ☀️ Time Management  
+- 🎤 Communication  
+- 🧩 Analytical Thinking  
 
 ---
 
-# 📬 **Contact Me**
+# ☀️📬 **Contact Me**
 
 📍 Salem, Tamil Nadu, India  
 📞 **+91 63692 55254**  
@@ -85,7 +90,10 @@ Studied SEO, analytics, content optimization, and online brand strategies.
 ---
 
 <div align="center">
-  <h3>✨ Thanks for visiting my profile! ✨</h3>
-  <p>Show some ❤️ by starring my repositories!</p>
+  <img src="https://img.shields.io/badge/Powered%20By-Leo%20Energy-F5A623?style=for-the-badge" />
 </div>
 
+<div align="center">
+  <h3>☀️✨ Thanks for visiting my profile! ✨☀️</h3>
+  <p>Show some ❤️ by starring my repositories!</p>
+</div>
