@@ -30,7 +30,7 @@ I'm passionate about:
 💬 Ask me about FastAPI, React, NodeJS, Automations & AI  
 📙 My Resume? It’s inside my works (no boring PDF 😎)  
 🎉 Fun Fact: 👉 *Sometimes the best ideas come at 2:30 AM while debugging*  
-🔗 Portfolio: **https://udhayaboopathi.me**
+🔗 Portfolio: **https://udhayaboopathi.tech**
 
 ---
 
