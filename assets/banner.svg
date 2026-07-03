@@ -22,38 +22,34 @@
 
   <rect width="1200" height="280" fill="url(#bg)"/>
   <rect width="1200" height="280" fill="url(#grid)"/>
-
-  <!-- Subtle gradient overlay -->
   <rect width="1200" height="280" fill="url(#accent)" opacity="0.04"/>
 
   <!-- Glass card -->
-  <rect x="80" y="40" width="1040" height="180" rx="16" fill="rgba(255,255,255,0.03)" stroke="rgba(0,245,255,0.25)" stroke-width="1"/>
+  <rect x="80" y="36" width="1040" height="200" rx="16" fill="rgba(255,255,255,0.03)" stroke="rgba(0,245,255,0.25)" stroke-width="1"/>
+  <rect x="80" y="36" width="1040" height="3" rx="1.5" fill="url(#accent)" opacity="0.7"/>
 
-  <!-- Accent line top -->
-  <rect x="80" y="40" width="1040" height="3" rx="1.5" fill="url(#accent)" opacity="0.7"/>
+  <!-- Inset corner accents (inside card) -->
+  <path d="M96,52 L136,52" fill="none" stroke="#00f5ff" stroke-width="2" opacity="0.45" stroke-linecap="round"/>
+  <path d="M96,52 L96,92" fill="none" stroke="#00f5ff" stroke-width="2" opacity="0.45" stroke-linecap="round"/>
+  <path d="M1104,220 L1064,220" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.45" stroke-linecap="round"/>
+  <path d="M1104,220 L1104,180" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.45" stroke-linecap="round"/>
 
-  <!-- Avatar ring -->
-  <circle cx="180" cy="130" r="52" fill="none" stroke="url(#accent)" stroke-width="2.5" filter="url(#glow)">
+  <!-- Avatar -->
+  <circle cx="180" cy="132" r="50" fill="none" stroke="url(#accent)" stroke-width="2.5" filter="url(#glow)">
     <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="180" cy="130" r="44" fill="rgba(0,245,255,0.08)"/>
-  <text x="180" y="142" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" fill="#00f5ff" filter="url(#glow)">U</text>
+  <circle cx="180" cy="132" r="42" fill="rgba(0,245,255,0.08)"/>
+  <text x="180" y="144" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="700" fill="#00f5ff" filter="url(#glow)">U</text>
 
-  <!-- Title -->
-  <text x="270" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="700" fill="#ffffff">Udhayaboopathi</text>
-  <text x="270" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#39ff14">Full Stack &amp; DevOps Engineer</text>
-  <text x="270" y="178" font-family="monospace" font-size="13" fill="#8892b0">Chennai, Tamil Nadu, India | udhayaboopathi.tech</text>
-  <text x="270" y="198" font-family="monospace" font-size="12" fill="#00f5ff">M.Sc Computer Science - Periyar University (2026)</text>
-
-  <!-- Status dot -->
-  <circle cx="270" cy="215" r="5" fill="#39ff14">
+  <!-- Text -->
+  <text x="270" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" fill="#ffffff">Udhayaboopathi</text>
+  <text x="270" y="142" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#39ff14">Full Stack &amp; DevOps Engineer</text>
+  <text x="270" y="168" font-family="monospace" font-size="13" fill="#8892b0">Chennai, Tamil Nadu, India | udhayaboopathi.tech</text>
+  <text x="270" y="190" font-family="monospace" font-size="12" fill="#00f5ff">M.Sc Computer Science - Periyar University (2026)</text>
+  <circle cx="270" cy="210" r="4" fill="#39ff14">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="285" y="220" font-family="monospace" font-size="12" fill="#39ff14">Developer @ TNTEU Chennai</text>
-
-  <!-- Corner brackets -->
-  <path d="M80,40 L110,40 L110,70" fill="none" stroke="#00f5ff" stroke-width="2" opacity="0.6"/>
-  <path d="M1120,220 L1120,250 L1090,250" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.6"/>
+  <text x="283" y="214" font-family="monospace" font-size="12" fill="#39ff14">Developer @ TNTEU Chennai</text>
 
   <!-- Bottom wave -->
   <path fill="rgba(0,245,255,0.06)">
