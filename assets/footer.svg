@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#ff00ff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#39ff14" stop-opacity="0.3"/>
+    </linearGradient>
+    <filter id="footerGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#footerBg)"/>
+
+  <!-- Wave layer 1 -->
+  <path fill="url(#waveGrad1)" opacity="0.4">
+    <animate attributeName="d"
+      values="M0,60 C150,30 350,90 600,60 C850,30 1050,90 1200,60 L1200,120 L0,120 Z;
+              M0,60 C150,90 350,30 600,60 C850,90 1050,30 1200,60 L1200,120 L0,120 Z;
+              M0,60 C150,30 350,90 600,60 C850,30 1050,90 1200,60 L1200,120 L0,120 Z"
+      dur="6s" repeatCount="indefinite"/>
+    <set attributeName="d" to="M0,60 C150,30 350,90 600,60 C850,30 1050,90 1200,60 L1200,120 L0,120 Z"/>
+  </path>
+
+  <!-- Wave layer 2 -->
+  <path fill="#00f5ff" opacity="0.08">
+    <animate attributeName="d"
+      values="M0,75 C200,50 400,100 600,75 C800,50 1000,100 1200,75 L1200,120 L0,120 Z;
+              M0,75 C200,100 400,50 600,75 C800,100 1000,50 1200,75 L1200,120 L0,120 Z;
+              M0,75 C200,50 400,100 600,75 C800,50 1000,100 1200,75 L1200,120 L0,120 Z"
+      dur="8s" repeatCount="indefinite"/>
+    <set attributeName="d" to="M0,75 C200,50 400,100 600,75 C800,50 1000,100 1200,75 L1200,120 L0,120 Z"/>
+  </path>
+
+  <!-- Wave layer 3 -->
+  <path fill="#ff00ff" opacity="0.06">
+    <animate attributeName="d"
+      values="M0,85 C250,65 450,105 750,85 C950,70 1100,95 1200,85 L1200,120 L0,120 Z;
+              M0,85 C250,105 450,65 750,85 C950,100 1100,75 1200,85 L1200,120 L0,120 Z;
+              M0,85 C250,65 450,105 750,85 C950,70 1100,95 1200,85 L1200,120 L0,120 Z"
+      dur="10s" repeatCount="indefinite"/>
+    <set attributeName="d" to="M0,85 C250,65 450,105 750,85 C950,70 1100,95 1200,85 L1200,120 L0,120 Z"/>
+  </path>
+
+  <!-- Footer text -->
+  <text x="600" y="55" text-anchor="middle" font-family="monospace" font-size="13" fill="#8892b0" filter="url(#footerGlow)">
+    Crafted with passion by Udhayaboopathi
+    <animate attributeName="fill" values="#8892b0;#00f5ff;#8892b0" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="78" text-anchor="middle" font-family="monospace" font-size="11" fill="#39ff14" opacity="0.7">
+    udhayaboopathi.tech  •  github.com/Udhayaboopathi
+  </text>
+
+  <!-- Animated dots -->
+  <circle cx="480" cy="100" r="2" fill="#00f5ff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="100" r="2" fill="#ff00ff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="720" cy="100" r="2" fill="#39ff14">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>

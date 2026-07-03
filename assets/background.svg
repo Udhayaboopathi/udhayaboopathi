@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="deepBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050508"/>
+      <stop offset="30%" stop-color="#0a0a12"/>
+      <stop offset="70%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </linearGradient>
+    <radialGradient id="spotlight1" cx="20%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#00f5ff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#00f5ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="spotlight2" cx="80%" cy="70%" r="35%">
+      <stop offset="0%" stop-color="#ff00ff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#ff00ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="spotlight3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#39ff14" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="cyberGrid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#00f5ff" stroke-width="0.4" opacity="0.08"/>
+    </pattern>
+    <pattern id="dotMatrix" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.5" fill="#ffffff" opacity="0.03"/>
+    </pattern>
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" in2="noise" mode="multiply"/>
+    </filter>
+  </defs>
+
+  <!-- Base -->
+  <rect width="1920" height="1080" fill="url(#deepBg)"/>
+  <rect width="1920" height="1080" fill="url(#cyberGrid)"/>
+  <rect width="1920" height="1080" fill="url(#dotMatrix)"/>
+
+  <!-- Spotlights -->
+  <rect width="1920" height="1080" fill="url(#spotlight1)"/>
+  <rect width="1920" height="1080" fill="url(#spotlight2)"/>
+  <rect width="1920" height="1080" fill="url(#spotlight3)"/>
+
+  <!-- Animated diagonal lines -->
+  <g opacity="0.06" stroke="#00f5ff" stroke-width="0.5">
+    <line x1="0" y1="0" x2="1920" y2="1080">
+      <animate attributeName="opacity" values="0.03;0.08;0.03" dur="5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="200" x2="1720" y2="1080">
+      <animate attributeName="opacity" values="0.08;0.03;0.08" dur="7s" repeatCount="indefinite"/>
+    </line>
+    <line x1="200" y1="0" x2="1920" y2="880">
+      <animate attributeName="opacity" values="0.05;0.1;0.05" dur="6s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Floating hexagons -->
+  <g opacity="0.15">
+    <polygon points="150,200 180,217 180,251 150,268 120,251 120,217" fill="none" stroke="#00f5ff" stroke-width="1">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-15; 0,0" dur="6s" repeatCount="indefinite"/>
+    </polygon>
+    <polygon points="1700,300 1730,317 1730,351 1700,368 1670,351 1670,317" fill="none" stroke="#ff00ff" stroke-width="1">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,20; 0,0" dur="8s" repeatCount="indefinite"/>
+    </polygon>
+    <polygon points="900,800 930,817 930,851 900,868 870,851 870,817" fill="none" stroke="#39ff14" stroke-width="1">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0" dur="5s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <!-- Circuit traces -->
+  <g opacity="0.1" stroke="#39ff14" stroke-width="1" fill="none">
+    <path d="M100,500 L200,500 L200,450 L350,450">
+      <animate attributeName="stroke-dashoffset" values="0;-200" dur="3s" repeatCount="indefinite"/>
+      <set attributeName="stroke-dasharray" to="10,5"/>
+    </path>
+    <path d="M1600,600 L1500,600 L1500,700 L1350,700">
+      <animate attributeName="stroke-dashoffset" values="0;200" dur="4s" repeatCount="indefinite"/>
+      <set attributeName="stroke-dasharray" to="10,5"/>
+    </path>
+  </g>
+
+  <!-- Vignette -->
+  <rect width="1920" height="1080" fill="url(#deepBg)" opacity="0.3"
+        style="mask: radial-gradient(ellipse at center, transparent 40%, black 100%)"/>
+</svg>

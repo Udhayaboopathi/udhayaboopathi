@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#ff00ff"/>
+      <stop offset="100%" stop-color="#39ff14"/>
+    </linearGradient>
+    <filter id="logoGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="hexClip">
+      <polygon points="100,10 175,52.5 175,147.5 100,190 25,147.5 25,52.5"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer hexagon -->
+  <polygon points="100,5 180,50 180,150 100,195 20,150 20,50"
+           fill="none" stroke="url(#logoGrad)" stroke-width="2.5" filter="url(#logoGlow)">
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 100 100;360 100 100" dur="20s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Inner hexagon -->
+  <polygon points="100,25 160,60 160,140 100,175 40,140 40,60"
+           fill="rgba(0,245,255,0.05)" stroke="rgba(0,245,255,0.3)" stroke-width="1"/>
+
+  <!-- Glass background -->
+  <rect x="40" y="40" width="120" height="120" rx="60" ry="60"
+        fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+
+  <!-- Letter U -->
+  <text x="100" y="125" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif" font-size="80" font-weight="800"
+        fill="url(#logoGrad)" filter="url(#logoGlow)">U</text>
+
+  <!-- Orbiting dot -->
+  <circle r="4" fill="#00f5ff" filter="url(#logoGlow)">
+    <animateMotion dur="4s" repeatCount="indefinite">
+      <mpath href="#orbitPath"/>
+    </animateMotion>
+  </circle>
+  <path id="orbitPath" d="M 100,25 A 75,75 0 1,1 99.9,25" fill="none" stroke="none"/>
+
+  <!-- Corner brackets -->
+  <polyline points="45,55 60,55 60,70" fill="none" stroke="#39ff14" stroke-width="2" opacity="0.8"/>
+  <polyline points="155,55 140,55 140,70" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.8"/>
+  <polyline points="45,145 60,145 60,130" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.8"/>
+  <polyline points="155,145 140,145 140,130" fill="none" stroke="#39ff14" stroke-width="2" opacity="0.8"/>
+</svg>
