@@ -17,7 +17,7 @@
 <br/><br/>
 
 <!-- ═══════════════════ PROFILE AVATAR ═══════════════════ -->
-<img src="./images/profile.png" alt="Udhayaboopathi" width="140" height="140"/>
+<img src="./images/profile.png" alt="Udhayaboopathi" width="100" height="100" style="border-radius: 50%; object-fit: cover; border: 3px solid #00f5ff;"/>
 
 <br/><br/>
 
@@ -61,7 +61,7 @@
 
 I'm **Udhayaboopathi** — a **Full Stack & DevOps Engineer** based in **Chennai, Tamil Nadu, India**. I build production systems from React frontends to containerized FastAPI backends, self-hosted PaaS platforms, and enterprise multi-tenant applications.
 
-Currently working at **Tamil Nadu Teachers Education University (TNTEU), Chennai** — designing, developing, and deploying production web platforms, managing DevOps pipelines, and building secure full-stack systems for the university. Completing my **M.Sc. Computer Science** at Periyar University, Salem.
+Currently working at **Tamil Nadu Teachers Education University (TNTEU), Chennai** — designing, developing, and deploying production web platforms, managing DevOps pipelines, and building secure full-stack systems for the university. **M.Sc. Computer Science** graduate from Periyar University, Salem (2026).
 
 <br/>
 
@@ -80,7 +80,7 @@ work:
   - REST APIs, databases & security (JWT, RBAC, 2FA)
   - Staff Portal & university digital platforms
 education:
-  - M.Sc Computer Science, Periyar University (2024–2026, completing)
+  - M.Sc Computer Science, Periyar University (2024–2026, completed)
   - B.Sc Computer Science, Govt. Arts and Science College (2021–2024)
 experience:
   - Developer, TNTEU Chennai (2026–Present)
@@ -138,7 +138,7 @@ motto: "Build once, deploy everywhere, scale infinitely."
 - 📜 Earn **AWS Solutions Architect** certification
 - 🌍 Build **developer community** in Chennai & Tamil Nadu
 - 📈 Scale **Nexudo Mail** to 1000+ tenants
-- 🎓 Complete **M.Sc.** with distinction
+- 🎓 **M.Sc. completed** — Periyar University, Salem
 
 </td>
 </tr>
@@ -308,14 +308,44 @@ motto: "Build once, deploy everywhere, scale infinitely."
 
 <div align="center">
 
-<a href="https://www.rolloutx.tech"><img width="49%" src="./images/rolloutx.png" alt="RolloutX"/></a>
-<a href="https://github.com/Udhayaboopathi/Nex-Mail"><img width="49%" src="./images/nexudo-mail.png" alt="Nexudo Mail"/></a>
-
-<a href="https://staffportal.tnteu.ac.in/login"><img width="49%" src="./images/tnteu-portal.png" alt="TNTEU Staff Portal"/></a>
-<a href="https://github.com/Udhayaboopathi/smart-qa"><img width="49%" src="./images/smart-qa.png" alt="Smart Summarization"/></a>
-
-<img width="49%" src="./images/food-recommender.png" alt="Organic Food Recommender"/>
-<img width="49%" src="./images/cicd.png" alt="DevOps CI/CD"/>
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.rolloutx.tech">
+<img src="./images/rolloutx.png" alt="RolloutX" width="160" height="100" style="border-radius: 12px; object-fit: contain; background-color: #161b22; border: 1px solid #30363d; padding: 8px;"/>
+</a>
+<br/><sub><b>RolloutX</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Udhayaboopathi/Nex-Mail">
+<img src="./images/nexudo-mail.png" alt="Nexudo Mail" width="160" height="100" style="border-radius: 12px; object-fit: contain; background-color: #161b22; border: 1px solid #30363d; padding: 8px;"/>
+</a>
+<br/><sub><b>Nexudo Mail</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://staffportal.tnteu.ac.in/login">
+<img src="./images/tnteu-portal.png" alt="TNTEU Staff Portal" width="160" height="100" style="border-radius: 12px; object-fit: contain; background-color: #161b22; border: 1px solid #30363d; padding: 8px;"/>
+</a>
+<br/><sub><b>TNTEU Portal</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/Udhayaboopathi/smart-qa">
+<img src="./images/smart-qa.png" alt="Smart Summarization" width="160" height="100" style="border-radius: 12px; object-fit: contain; background-color: #161b22; border: 1px solid #30363d; padding: 8px;"/>
+</a>
+<br/><sub><b>Smart QA</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="./images/food-recommender.png" alt="Organic Food Recommender" width="160" height="100" style="border-radius: 12px; object-fit: contain; background-color: #161b22; border: 1px solid #30363d; padding: 8px;"/>
+<br/><sub><b>Food Recommender</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="./images/cicd.png" alt="DevOps CI/CD" width="160" height="100" style="border-radius: 12px; object-fit: contain; background-color: #161b22; border: 1px solid #30363d; padding: 8px;"/>
+<br/><sub><b>CI/CD</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -629,7 +659,7 @@ gantt
 
     section Education
     BSc Computer Science            :done, bsc, 2021-06, 2024-05
-    MSc Computer Science            :active, msc, 2024-06, 2026-05
+    MSc Computer Science            :done, msc, 2024-06, 2026-06
 
     section Experience
     MERN Stack Intern Arttifai      :done, art, 2025-01, 2025-12
@@ -643,7 +673,7 @@ gantt
 | Period | Milestone |
 |:-------|:----------|
 | **2021 – 2024** | B.Sc Computer Science — Government Arts and Science College |
-| **2024 – 2026** | M.Sc Computer Science — Periyar University *(completing)* |
+| **2024 – 2026** | M.Sc Computer Science — Periyar University *(completed 2026)* |
 | **2025** | MERN Stack Internship — Arttifai Tech |
 | **2025 – 2026** | **Concurrent roles:** Linux Server Administrator *(part-time)* — Periyar University **+** Developer & DevOps — Nexudo Tech Solutions |
 | **2026 – Present** | Developer — TNTEU, Chennai |
@@ -656,7 +686,7 @@ gantt
 
 | Degree | Institution | Duration | Status | Focus Areas |
 |:-------|:------------|:---------|:------:|:------------|
-| **M.Sc. Computer Science** | Periyar University, Salem | 2024 — 2026 | 🟡 Completing | Advanced Algorithms, Cloud Computing, AI/ML, Research |
+| **M.Sc. Computer Science** | Periyar University, Salem | 2024 — 2026 | ✅ Completed | Advanced Algorithms, Cloud Computing, AI/ML, Research |
 | **B.Sc. Computer Science** | Government Arts and Science College | 2021 — 2024 | ✅ Completed | Programming, Databases, Web Development, OS |
 
 </div>
@@ -692,7 +722,7 @@ gantt
 | 📧 **Enterprise Platform** | Architected multi-tenant Nexudo Mail with RBAC & campaigns |
 | 🧠 **AI Integration** | Smart QA platform handling 500+ queries/session under 500ms |
 | 🐧 **Server Administration** | Managed Linux servers at Periyar University while working DevOps at Nexudo (2025–2026) |
-| 🎓 **Academic Excellence** | Completing M.Sc. while leading production development at TNTEU |
+| 🎓 **Academic Excellence** | Completed M.Sc. while leading production development at TNTEU |
 | ⭐ **Open Source** | Active GitHub contributor with multiple production projects |
 | 🔄 **CI/CD Automation** | Automated profile metrics and snake animation via GitHub Actions |
 

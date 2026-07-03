@@ -42,13 +42,14 @@
   <!-- Title -->
   <text x="270" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="700" fill="#ffffff">Udhayaboopathi</text>
   <text x="270" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#39ff14">Full Stack &amp; DevOps Engineer</text>
-  <text x="270" y="182" font-family="monospace" font-size="14" fill="#8892b0">Chennai, Tamil Nadu, India | udhayaboopathi.tech</text>
+  <text x="270" y="178" font-family="monospace" font-size="13" fill="#8892b0">Chennai, Tamil Nadu, India | udhayaboopathi.tech</text>
+  <text x="270" y="198" font-family="monospace" font-size="12" fill="#00f5ff">M.Sc Computer Science - Periyar University (2026)</text>
 
   <!-- Status dot -->
-  <circle cx="270" cy="205" r="5" fill="#39ff14">
+  <circle cx="270" cy="215" r="5" fill="#39ff14">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="285" y="210" font-family="monospace" font-size="12" fill="#39ff14">Available for opportunities</text>
+  <text x="285" y="220" font-family="monospace" font-size="12" fill="#39ff14">Developer @ TNTEU Chennai</text>
 
   <!-- Corner brackets -->
   <path d="M80,40 L110,40 L110,70" fill="none" stroke="#00f5ff" stroke-width="2" opacity="0.6"/>
