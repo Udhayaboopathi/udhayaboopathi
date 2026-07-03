@@ -16,8 +16,8 @@
 
 <br/><br/>
 
-<!-- ═══════════════════ PROFILE AVATAR ═══════════════════ -->
-<img src="./images/profile.png" alt="Udhayaboopathi" width="100" height="100" style="border-radius: 50%; object-fit: cover; border: 3px solid #00f5ff;"/>
+<!-- ═══════════════════ PROFILE AVATAR (pre-rounded PNG — GitHub strips CSS border-radius) ═══════════════════ -->
+<img src="./images/profile-round.png" alt="Udhayaboopathi" width="100" height="100"/>
 
 <br/><br/>
 
