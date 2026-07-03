@@ -39,9 +39,10 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_limit: 6
           filename: metrics.svg
+          output_action: none
 
       - name: Copy metrics to assets
-        run: cp metrics.svg assets/github-metrics.svg
+        run: cp /metrics_renders/metrics.svg assets/github-metrics.svg
 
       - name: Commit metrics
         uses: EndBug/add-and-commit@v9

@@ -1140,58 +1140,6 @@ Both workflows commit directly to `main`. Enable **Settings → Actions → Gene
 
 ---
 
-## 📁 Repository Structure
-
-<details>
-<summary><b>📂 Profile Repository File Structure (Click to expand)</b></summary>
-
-<br/>
-
-```
-udhayaboopathi/
-├── README.md
-├── assets/
-│   ├── banner.svg              # Animated header banner
-│   ├── profile.svg             # Default avatar (replace with images/profile.png)
-│   ├── footer.svg              # Animated footer
-│   ├── snake.svg               # Auto-updated by snake.yml
-│   └── github-metrics.svg      # Auto-updated by metrics.yml
-├── images/                     # ← PUT YOUR SCREENSHOTS HERE
-│   ├── README.md               # Image upload guide
-│   ├── profile.png             # Your photo (optional)
-│   ├── rolloutx.png            # Project screenshots
-│   └── ...
-└── .github/workflows/
-    ├── snake.yml
-    └── metrics.yml
-```
-
-</details>
-
----
-
-## 🎨 Design System Reference
-
-<details>
-<summary><b>🎨 Cyberpunk Neon Theme Colors (Click to expand)</b></summary>
-
-<br/>
-
-| Color | Hex | Usage |
-|:------|:----|:------|
-| **Deep Black** | `#0a0a0f` | Background, cards, base layer |
-| **Cyan Neon** | `#00f5ff` | Primary accent, links, borders |
-| **Magenta Neon** | `#ff00ff` | Secondary accent, highlights |
-| **Green Neon** | `#39ff14` | Success states, CTAs, streaks |
-| **Glass White** | `rgba(255,255,255,0.05)` | Glassmorphism card backgrounds |
-| **Glass Border** | `rgba(0,245,255,0.2)` | Glassmorphism card borders |
-
-**Stats Theme:** `radical` with `bg_color=0a0a0f`
-
-</details>
-
----
-
 <div align="center">
 
 <br/>
