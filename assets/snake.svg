@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <rect width="1200" height="200" fill="#0a0a0f"/>
+  <text x="600" y="90" text-anchor="middle" font-family="monospace" font-size="18" fill="#00f5ff">Snake animation generates after first GitHub Actions run</text>
+  <text x="600" y="125" text-anchor="middle" font-family="monospace" font-size="13" fill="#8892b0">Actions &gt; Generate Snake Animation &gt; Run workflow</text>
+  <rect x="200" y="145" width="800" height="30" rx="4" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <g fill="#21262d">
+    <rect x="210" y="152" width="12" height="12" rx="2"/>
+    <rect x="226" y="152" width="12" height="12" rx="2"/>
+    <rect x="242" y="152" width="12" height="12" rx="2"/>
+    <rect x="258" y="152" width="12" height="12" rx="2" fill="#00f5ff" opacity="0.5"/>
+    <rect x="274" y="152" width="12" height="12" rx="2" fill="#00f5ff"/>
+    <rect x="290" y="152" width="12" height="12" rx="2" fill="#00f5ff"/>
+    <rect x="306" y="152" width="12" height="12" rx="2" fill="#00f5ff" opacity="0.5"/>
+  </g>
+</svg>

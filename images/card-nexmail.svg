@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 415 120" width="415" height="120">
+  <rect width="415" height="120" rx="12" fill="#0a0a0f" stroke="#ff00ff" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="20" y="35" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#ff00ff">Nexudo Mail</text>
+  <text x="20" y="58" font-family="monospace" font-size="11" fill="#8892b0">Enterprise Multi-Tenant Mail</text>
+  <text x="20" y="80" font-family="monospace" font-size="10" fill="#39ff14">Next.js | FastAPI | Redis | PostgreSQL</text>
+  <text x="20" y="102" font-family="monospace" font-size="10" fill="#00f5ff">Nex-Mail repo</text>
+</svg>

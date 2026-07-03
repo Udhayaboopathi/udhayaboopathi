@@ -18,23 +18,19 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake animation
-        uses: Platane/snake@v4
+        uses: Platane/snk@v3.5.0
         with:
           github_user_name: Udhayaboopathi
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-orange.svg?palette=orange
-            dist/github-contribution-grid-snake-green.svg?palette=github-green
-            dist/ocean.svg?color_snake=00f5ff&color_dots=0a0a0f,161b22,21262d,00f5ff&color_background=0a0a0f
-          snake_color: "00f5ff"
-          snake_case: lower
+            dist/snake.svg?color_snake=00f5ff&color_dots=0a0a0f,161b22,21262d,00f5ff&color_background=0a0a0f
 
-      - name: Deploy snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Copy snake to assets
+        run: cp dist/snake.svg assets/snake.svg
+
+      - name: Commit snake animation
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "chore: update snake contribution animation"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "chore: update snake contribution animation"
+          add: assets/snake.svg

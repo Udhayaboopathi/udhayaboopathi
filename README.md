@@ -16,15 +16,9 @@
 
 <br/><br/>
 
-<!-- ═══════════════════ LOGO & PROFILE GIF ═══════════════════ -->
-<img src="./assets/logo.svg" alt="UB Logo" width="120" height="120"/>
-&nbsp;&nbsp;
-<img src="./assets/profile.gif" alt="Profile Animation" width="120" height="120"/>
-
-<br/><br/>
-
-<!-- ═══════════════════ WAVE HEADER (CAPSULE-RENDER) ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00f5ff,100:ff00ff&height=200&section=header&text=Udhayaboopathi&fontSize=52&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
+<!-- ═══════════════════ PROFILE AVATAR ═══════════════════ -->
+<!-- Drop your photo at images/profile.png then change src below -->
+<img src="./assets/profile.svg" alt="Udhayaboopathi" width="140" height="140"/>
 
 <br/><br/>
 
@@ -56,13 +50,6 @@
 
 ---
 
-<!-- ═══════════════════ BACKGROUND DECORATION ═══════════════════ -->
-<div align="center">
-<img src="./assets/background.svg" alt="Cyberpunk Background" width="100%"/>
-</div>
-
----
-
 ## 🌐 Professional Introduction
 
 <div align="center">
@@ -85,6 +72,9 @@
   "github": "https://github.com/Udhayaboopathi",
   "linkedin": "https://linkedin.com/in/udhayaboopathi",
   "email": "udhayaboopathi2003@gmail.com",
+  "discord": "groot0820",
+  "instagram": "@udhayaboopathi_",
+  "spotify": "https://spotify-github-profile.kittinanx.com/api/view?uid=31irefn5qkpggtnpqxrkcvlo4sq4&redirect=true",
   "specializations": [
     "Full Stack Web Development",
     "DevOps & CI/CD Automation",
@@ -370,19 +360,11 @@ Currently, I develop and maintain the **TNTEU Staff Portal** — a live producti
 
 <div align="center">
 
-<a href="https://github.com/Udhayaboopathi/RolloutX">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Udhayaboopathi&repo=RolloutX&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12"/>
-</a>
-<a href="https://github.com/Udhayaboopathi/Nex-Mail">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Udhayaboopathi&repo=Nex-Mail&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12"/>
-</a>
+<a href="https://www.rolloutx.tech"><img width="49%" src="./images/card-rolloutx.svg" alt="RolloutX"/></a>
+<a href="https://github.com/Udhayaboopathi/Nex-Mail"><img width="49%" src="./images/card-nexmail.svg" alt="Nexudo Mail"/></a>
 
-<a href="https://github.com/Udhayaboopathi/fast-api">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Udhayaboopathi&repo=fast-api&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12"/>
-</a>
-<a href="https://github.com/Udhayaboopathi/smart-qa">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Udhayaboopathi&repo=smart-qa&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12"/>
-</a>
+<a href="https://staffportal.tnteu.ac.in/login"><img width="49%" src="./images/card-tnteu.svg" alt="TNTEU Staff Portal"/></a>
+<a href="https://github.com/Udhayaboopathi/smart-qa"><img width="49%" src="./images/card-smartqa.svg" alt="Smart Summarization"/></a>
 
 </div>
 
@@ -501,15 +483,17 @@ Currently, I develop and maintain the **TNTEU Staff Portal** — a live producti
 
 | RolloutX Dashboard | Nexudo Mail Inbox |
 |:----------------:|:-----------------:|
-| <img src="https://via.placeholder.com/600x350/0a0a0f/00f5ff?text=RolloutX+Dashboard" alt="RolloutX Dashboard" width="100%"/> | <img src="https://via.placeholder.com/600x350/0a0a0f/ff00ff?text=Nexudo+Mail+Inbox" alt="Nexudo Mail Inbox" width="100%"/> |
+| <img src="./images/rolloutx.svg" alt="RolloutX Dashboard" width="100%"/> | <img src="./images/nexudo-mail.svg" alt="Nexudo Mail Inbox" width="100%"/> |
 
 | TNTEU Staff Portal | Smart Summarization Q&A |
 |:------------------:|:-----------------------:|
-| <img src="https://via.placeholder.com/600x350/0a0a0f/39ff14?text=TNTEU+Staff+Portal" alt="TNTEU Staff Portal" width="100%"/> | <img src="https://via.placeholder.com/600x350/0a0a0f/00f5ff?text=Smart+Summarization" alt="Smart Summarization" width="100%"/> |
+| <img src="./images/tnteu-portal.svg" alt="TNTEU Staff Portal" width="100%"/> | <img src="./images/smart-qa.svg" alt="Smart Summarization" width="100%"/> |
 
 | Organic Food Recommender | DevOps CI/CD Pipeline |
 |:------------------------:|:---------------------:|
-| <img src="https://via.placeholder.com/600x350/0a0a0f/ff00ff?text=Food+Recommender" alt="Organic Food Recommender" width="100%"/> | <img src="https://via.placeholder.com/600x350/0a0a0f/39ff14?text=CI%2FCD+Pipeline" alt="CI/CD Pipeline" width="100%"/> |
+| <img src="./images/food-recommender.svg" alt="Organic Food Recommender" width="100%"/> | <img src="./images/cicd.svg" alt="CI/CD Pipeline" width="100%"/> |
+
+<sub>📁 Add your real screenshots to the <code>images/</code> folder — see <a href="./images/README.md">images/README.md</a> for file names</sub>
 
 </div>
 
@@ -817,9 +801,9 @@ mindmap
 
 ### 📈 Stats Overview
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Udhayaboopathi&show_icons=true&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12&count_private=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Udhayaboopathi&show_icons=true&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayaboopathi&layout=compact&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12&langs_count=10"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayaboopathi&layout=compact&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -835,56 +819,39 @@ mindmap
 
 <br/><br/>
 
+### 📅 Contribution Graph
+
+<img src="https://ghchart.rshah.org/00f5ff/Udhayaboopathi" alt="Contribution Graph"/>
+
+<br/><br/>
+
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Udhayaboopathi&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Udhayaboopathi&theme=discord&no-frame=false&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
 
 <br/><br/>
 
 ### 📈 GitHub Metrics (Auto-generated)
 
-<img src="https://raw.githubusercontent.com/Udhayaboopathi/udhayaboopathi/github-metrics/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<img src="./assets/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 <br/><br/>
 
 ### 📋 Profile Summary Cards
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udhayaboopathi&theme=radical" alt="Profile Details"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udhayaboopathi&theme=radical" alt="Repos per Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udhayaboopathi&theme=radical" alt="Most Commit Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udhayaboopathi&theme=radical" alt="Stats Card"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Udhayaboopathi&theme=radical&utcOffset=330" alt="Productive Time"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udhayaboopathi&theme=radical" alt="Profile Details"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udhayaboopathi&theme=radical" alt="Repos per Language"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udhayaboopathi&theme=radical" alt="Most Commit Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udhayaboopathi&theme=radical" alt="Stats Card"/>
 
 <br/><br/>
 
 ### 🐍 Contribution Snake Animation
 
-<img src="https://raw.githubusercontent.com/Udhayaboopathi/udhayaboopathi/output/ocean.svg" alt="Snake Animation" width="100%"/>
-
-</div>
-
----
-
-## ⏱️ WakaTime Stats
-
-<div align="center">
-
-> ⚠️ **Placeholder** — Configure `WAKATIME_TOKEN` secret in repository settings to enable live WakaTime stats.
-
-<br/>
-
-<img src="https://via.placeholder.com/800x200/0a0a0f/00f5ff?text=WakaTime+Stats+%E2%80%94+Connect+WAKATIME_TOKEN+to+enable" alt="WakaTime Placeholder" width="100%"/>
-
-<br/><br/>
-
-<!-- WakaTime embed (requires WAKATIME_TOKEN in metrics.yml) -->
-<!-- Uncomment when token is configured:
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Udhayaboopathi&theme=radical&bg_color=0a0a0f&hide_border=true" alt="WakaTime Stats"/>
--->
+<img src="./assets/snake.svg" alt="Snake Animation" width="100%"/>
 
 </div>
 
@@ -892,21 +859,11 @@ mindmap
 
 ## 🎵 Spotify Now Playing
 
-<div align="center">
-
-> ⚠️ **Placeholder** — Connect Spotify API to display currently playing track.
-
-<br/>
-
-<img src="https://via.placeholder.com/400x100/0a0a0f/39ff14?text=Spotify+Now+Playing+%E2%80%94+Not+Connected" alt="Spotify Placeholder"/>
-
-<br/><br/>
-
-<!-- Spotify now playing (requires spotify-github-profile setup):
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
--->
-
-</div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31irefn5qkpggtnpqxrkcvlo4sq4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31irefn5qkpggtnpqxrkcvlo4sq4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark" alt="Spotify Now Playing"/>
+  </a>
+</p>
 
 ---
 
@@ -935,12 +892,9 @@ mindmap
 
 <br/><br/>
 
-[![Discord](https://img.shields.io/badge/Discord-udhayaboopathi%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0f)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Twitter](https://img.shields.io/badge/Twitter-%40udhayaboopathi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a0f)](https://twitter.com/YOUR_TWITTER_HANDLE)
-
-<br/><br/>
-
-> ⚠️ Discord and Twitter links are placeholders — update with your actual handles.
+[![Discord](https://img.shields.io/badge/Discord-groot0820-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0f)](https://discord.com/users/581142001739628565)
+[![Instagram](https://img.shields.io/badge/Instagram-%40udhayaboopathi_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0f)](https://www.instagram.com/udhayaboopathi_/)
+[![Spotify](https://img.shields.io/badge/Spotify-udhayaboopathi-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0a0a0f)](https://spotify-github-profile.kittinanx.com/api/view?uid=31irefn5qkpggtnpqxrkcvlo4sq4&redirect=true)
 
 </div>
 
@@ -1047,8 +1001,8 @@ graph LR
 
 | Workflow | File | Schedule | Description |
 |:---------|:-----|:---------|:------------|
-| 🐍 **Snake Animation** | `.github/workflows/snake.yml` | Daily at 00:00 UTC | Generates contribution snake SVG with cyberpunk colors (`#00f5ff` snake, `#0a0a0f` background), deploys to `output` branch |
-| 📊 **GitHub Metrics** | `.github/workflows/metrics.yml` | Daily at 06:00 UTC | Generates comprehensive metrics SVG/JSON with achievements, activity, languages, habits, WakaTime — commits to `github-metrics` branch |
+| 🐍 **Snake Animation** | `.github/workflows/snake.yml` | Daily at 00:00 UTC | Generates contribution snake SVG (`#00f5ff` snake) → saves to `assets/snake.svg` |
+| 📊 **GitHub Metrics** | `.github/workflows/metrics.yml` | Daily at 06:00 UTC | Generates metrics SVG — commits to `assets/github-metrics.svg` |
 
 </div>
 
@@ -1061,19 +1015,15 @@ graph LR
 
 ```yaml
 # Key Configuration:
-outputs:
-  - dist/github-contribution-grid-snake.svg
-  - dist/github-contribution-grid-snake-dark.svg
-  - dist/ocean.svg (cyberpunk theme)
-snake_color: "00f5ff"
-target_branch: output
+uses: Platane/snk@v3.5.0
+outputs: dist/snake.svg (cyberpunk theme)
+save_to: assets/snake.svg
 schedule: "0 0 * * *" (daily midnight UTC)
 ```
 
 **Features:**
-- Multiple snake palette variants (dark, orange, green, ocean)
 - Custom cyberpunk color scheme matching profile theme
-- Auto-deploys to `output` branch via `crazy-max/ghaction-github-pages`
+- Commits directly to `main` branch
 - Manual trigger available via `workflow_dispatch`
 
 </details>
@@ -1095,13 +1045,12 @@ schedule: "0 0 * * *" (daily midnight UTC)
 - people (followers, following)
 - reactions, stargazers, stars
 - traffic (pages, referrers)
-- wakatime (requires WAKATIME_TOKEN secret)
 ```
 
 **Features:**
 - Timezone: Asia/Kolkata
 - Animated typing display
-- Commits to `github-metrics` branch
+- Commits to `assets/github-metrics.svg` on `main`
 - Comprehensive developer activity dashboard
 
 </details>
@@ -1182,10 +1131,10 @@ I believe in:
 
 This GitHub profile README is powered by two GitHub Actions workflows:
 
-1. **snake.yml** — Generates a contribution snake animation daily and deploys SVG files to the `output` branch
-2. **metrics.yml** — Generates comprehensive GitHub metrics (achievements, activity, languages, WakaTime) and commits to the `github-metrics` branch
+1. **snake.yml** — Generates contribution snake animation daily → saves to `assets/snake.svg`
+2. **metrics.yml** — Generates GitHub metrics daily → saves to `assets/github-metrics.svg`
 
-Both workflows run on cron schedules and can be manually triggered via `workflow_dispatch`.
+Both workflows commit directly to `main`. Enable **Settings → Actions → General → Read and write permissions** for workflows to work.
 
 </details>
 
@@ -1200,21 +1149,21 @@ Both workflows run on cron schedules and can be manually triggered via `workflow
 
 ```
 udhayaboopathi/
-├── README.md                          # This profile README
+├── README.md
 ├── assets/
-│   ├── banner.svg                     # Animated cyberpunk banner
-│   ├── logo.svg                       # Personal logo
-│   ├── footer.svg                     # Animated footer graphic
-│   ├── profile.gif                    # Profile animation
-│   └── background.svg                 # Background decoration
-├── .github/
-│   └── workflows/
-│       ├── snake.yml                  # Snake animation generator
-│       └── metrics.yml                # GitHub metrics generator
-└── dist/                              # Generated snake outputs (output branch)
-    ├── github-contribution-grid-snake.svg
-    ├── github-contribution-grid-snake-dark.svg
-    └── ocean.svg                      # Cyberpunk themed snake
+│   ├── banner.svg              # Animated header banner
+│   ├── profile.svg             # Default avatar (replace with images/profile.png)
+│   ├── footer.svg              # Animated footer
+│   ├── snake.svg               # Auto-updated by snake.yml
+│   └── github-metrics.svg      # Auto-updated by metrics.yml
+├── images/                     # ← PUT YOUR SCREENSHOTS HERE
+│   ├── README.md               # Image upload guide
+│   ├── profile.png             # Your photo (optional)
+│   ├── rolloutx.png            # Project screenshots
+│   └── ...
+└── .github/workflows/
+    ├── snake.yml
+    └── metrics.yml
 ```
 
 </details>

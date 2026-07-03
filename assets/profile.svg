@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#ff00ff"/>
+      <stop offset="100%" stop-color="#39ff14"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)" rx="200"/>
+  <circle cx="200" cy="200" r="185" fill="none" stroke="url(#ring)" stroke-width="3" opacity="0.8" filter="url(#glow)">
+    <animate attributeName="r" values="182;188;182" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="200" r="150" fill="rgba(0,245,255,0.05)" stroke="rgba(0,245,255,0.2)" stroke-width="1"/>
+  <text x="200" y="195" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="800" fill="url(#ring)" filter="url(#glow)">U</text>
+  <text x="200" y="240" text-anchor="middle" font-family="monospace" font-size="11" fill="#8892b0">Add images/profile.png</text>
+  <circle cx="200" cy="200" r="170" fill="none" stroke="#00f5ff" stroke-width="1" stroke-dasharray="8 12" opacity="0.4">
+    <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="12s" repeatCount="indefinite"/>
+  </circle>
+</svg>
