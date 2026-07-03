@@ -5,7 +5,7 @@
      ██║   ██║██║  ██║██╔══██║██╔══██║  ╚██╔╝  ██╔══██║██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║   ██║   ██╔══██║██║
      ╚██████╔╝██████╔╝██║  ██║██║  ██║   ██║   ██║  ██║██████╔╝╚██████╔╝╚██████╔╝██████╔╝██║  ██║   ██║   ██║  ██║██║
       ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝
-     Full Stack & DevOps Engineer · Salem, Tamil Nadu, India
+     Full Stack & DevOps Engineer · Chennai, Tamil Nadu, India
      Theme: Cyberpunk Neon · Glassmorphism · #0a0a0f · #00f5ff · #ff00ff · #39ff14
      ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -17,14 +17,13 @@
 <br/><br/>
 
 <!-- ═══════════════════ PROFILE AVATAR ═══════════════════ -->
-<!-- Drop your photo at images/profile.png then change src below -->
-<img src="./assets/profile.svg" alt="Udhayaboopathi" width="140" height="140"/>
+<img src="./images/profile.png" alt="Udhayaboopathi" width="140" height="140"/>
 
 <br/><br/>
 
 <!-- ═══════════════════ ANIMATED TYPING EFFECT ═══════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+%26+DevOps+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+Docker;Building+Production+Systems+%40+TNTEU;Self-Hosted+PaaS+%E2%80%A2+Enterprise+Mail+%E2%80%A2+AI+Integrations;Turning+ideas+into+scalable%2C+secure+systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+%26+DevOps+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+Docker;Full+Stack+%26+DevOps+%40+TNTEU+Chennai;Production+Systems+%E2%80%A2+DevOps+%E2%80%A2+Cloud;Turning+ideas+into+scalable%2C+secure+systems" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -40,17 +39,17 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Location-Salem%2C%20Tamil%20Nadu%2C%20India-0a0a0f?style=for-the-badge&logo=googlemaps&logoColor=00f5ff" alt="Location"/>
+<img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-0a0a0f?style=for-the-badge&logo=googlemaps&logoColor=00f5ff" alt="Location"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Work-TNTEU%20Chennai-0a0a0f?style=for-the-badge&logo=googlechrome&logoColor=39ff14" alt="Work"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Portfolio-udhayaboopathi.tech-0a0a0f?style=for-the-badge&logo=vercel&logoColor=39ff14" alt="Portfolio"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Available%20for%20Work-0a0a0f?style=for-the-badge&logo=statuspage&logoColor=00f5ff" alt="Status"/>
 
 </div>
 
 ---
 
-## 🌐 Professional Introduction
+## 🌐 About Me
 
 <div align="center">
 
@@ -60,95 +59,44 @@
 
 <br/>
 
-### 👤 Developer Identity
+I'm **Udhayaboopathi** — a **Full Stack & DevOps Engineer** based in **Chennai, Tamil Nadu, India**. I build production systems from React frontends to containerized FastAPI backends, self-hosted PaaS platforms, and enterprise multi-tenant applications.
 
-```json
-{
-  "name": "Udhayaboopathi",
-  "title": "Full Stack & DevOps Engineer",
-  "location": "Salem, Tamil Nadu, India",
-  "timezone": "Asia/Kolkata (IST, UTC+5:30)",
-  "portfolio": "https://udhayaboopathi.tech",
-  "github": "https://github.com/Udhayaboopathi",
-  "linkedin": "https://linkedin.com/in/udhayaboopathi",
-  "email": "udhayaboopathi2003@gmail.com",
-  "discord": "groot0820",
-  "instagram": "@udhayaboopathi_",
-  "spotify": "https://spotify-github-profile.kittinanx.com/api/view?uid=31irefn5qkpggtnpqxrkcvlo4sq4&redirect=true",
-  "specializations": [
-    "Full Stack Web Development",
-    "DevOps & CI/CD Automation",
-    "Self-Hosted PaaS Architecture",
-    "Enterprise Multi-Tenant Systems",
-    "Linux Server Administration",
-    "AI/ML Integration & NLP",
-    "Database Design & Optimization",
-    "Cloud Infrastructure (AWS, Azure)"
-  ],
-  "philosophy": "Code should feel alive, intelligent, and effortless.",
-  "currently_at": "Tamil Nadu Teachers Education University (TNTEU)"
-}
-```
+Currently working at **Tamil Nadu Teachers Education University (TNTEU), Chennai** — designing, developing, and deploying production web platforms, managing DevOps pipelines, and building secure full-stack systems for the university. Also pursuing **M.Sc. Computer Science** at Periyar University, Salem.
+
+<br/>
+
+### 👤 Quick Profile
 
 ```yaml
-developer:
-  name: Udhayaboopathi
-  role: Full Stack & DevOps Engineer
-  location: Salem, Tamil Nadu, India
-  education:
-    current: M.Sc Computer Science @ Periyar University
-    completed: B.Sc Computer Science @ Government Arts and Science College
-  focus_areas:
-    - React.js & Next.js frontend architecture
-    - FastAPI & Python backend services
-    - Docker, Traefik & self-hosted infrastructure
-    - PostgreSQL, Redis, MongoDB data layers
-    - GitHub Actions CI/CD pipelines
-    - AI integrations (OpenAI, Gemini)
-  motto: "Build once, deploy everywhere, scale infinitely."
+name: Udhayaboopathi
+role: Full Stack & DevOps Engineer
+location: Chennai, Tamil Nadu, India
+timezone: Asia/Kolkata (IST)
+employer: Tamil Nadu Teachers Education University (TNTEU), Chennai
+work:
+  - Full-stack web application development
+  - DevOps, Docker & Linux server deployment
+  - Production system architecture & maintenance
+  - REST APIs, databases & security (JWT, RBAC, 2FA)
+  - Staff Portal & university digital platforms
+education:
+  - M.Sc Computer Science, Periyar University (2024–2026)
+  - B.Sc Computer Science, Govt. Arts and Science College (2021–2024)
+experience:
+  - Developer, TNTEU Chennai (2026–Present)
+  - Linux Server Administrator, Periyar University — part-time (2025–2026)
+  - Data Analyst & Junior Developer, Nexudo Tech Solutions — intern (2025)
+  - MERN Stack Intern, Arttifai Tech (2025)
+links:
+  portfolio: https://udhayaboopathi.tech
+  github: https://github.com/Udhayaboopathi
+  linkedin: https://linkedin.com/in/udhayaboopathi
+  email: udhayaboopathi2003@gmail.com
+  discord: groot0820
+  instagram: https://instagram.com/udhayaboopathi_
+stack: React, Next.js, FastAPI, Docker, PostgreSQL, Redis, Traefik, AWS, Azure
+motto: "Build once, deploy everywhere, scale infinitely."
 ```
-
----
-
-## 👋 About Me
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Who I Am
-
-I'm **Udhayaboopathi** — a **Full Stack & DevOps Engineer** based in **Salem, Tamil Nadu, India**, passionate about building production-grade systems that are secure, scalable, and beautiful to use.
-
-I specialize in architecting end-to-end solutions — from glassmorphism React frontends to containerized FastAPI backends, self-hosted PaaS platforms, and enterprise multi-tenant applications serving real users across Tamil Nadu.
-
-Currently, I develop and maintain the **TNTEU Staff Portal** — a live production system used by university staff statewide — while pursuing my **M.Sc. in Computer Science** at Periyar University.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Full Specialization List
-
-| Domain | Technologies |
-|:-------|:-------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | FastAPI, Flask, Node.js, Express, PHP |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, SQLite |
-| **DevOps** | Docker, Traefik, Nginx, GitHub Actions, CI/CD |
-| **Cloud** | AWS, Azure, VPS, Self-Hosted Infrastructure |
-| **AI/ML** | OpenAI API, Google Gemini, NLP, RAG, Summarization |
-| **OS & Infra** | Linux (Ubuntu, Debian), Bash, Systemd, Networking |
-| **Tools** | Git, VS Code, Postman, Cursor, Claude, Copilot |
-| **Security** | JWT, OAuth2, 2FA, RBAC, SSL/TLS, Traefik Middleware |
-| **Monitoring** | Health checks, Logging, Metrics, Uptime monitoring |
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -162,11 +110,11 @@ Currently, I develop and maintain the **TNTEU Staff Portal** — a live producti
 
 ### 🚧 Currently Working On
 
-- 🏛️ **TNTEU Staff Portal** — Production enhancements, RBAC, 2FA
+- 🏛️ **TNTEU, Chennai** — Production web platforms, DevOps & full-stack systems
+- 🖥️ **Staff Portal** — Live statewide platform (RBAC, 2FA, PostgreSQL)
+- 🐳 **Infrastructure** — Docker, Linux servers, CI/CD automation
 - 🧱 **RolloutX** — Self-hosted PaaS with Traefik routing
 - 📧 **Nexudo Mail** — Multi-tenant enterprise email platform
-- 🔄 **CI/CD Pipelines** — GitHub Actions automation
-- 🎨 **Glassmorphism UI** — Modern design system components
 
 </td>
 <td align="center" width="33%">
@@ -188,7 +136,7 @@ Currently, I develop and maintain the **TNTEU Staff Portal** — a live producti
 - 🚀 Launch **RolloutX** as open-source PaaS
 - 🏆 Contribute to **10+ open-source** projects
 - 📜 Earn **AWS Solutions Architect** certification
-- 🌍 Build **developer community** in Salem region
+- 🌍 Build **developer community** in Chennai & Tamil Nadu
 - 📈 Scale **Nexudo Mail** to 1000+ tenants
 - 🎓 Complete **M.Sc.** with distinction
 
@@ -360,11 +308,14 @@ Currently, I develop and maintain the **TNTEU Staff Portal** — a live producti
 
 <div align="center">
 
-<a href="https://www.rolloutx.tech"><img width="49%" src="./images/card-rolloutx.svg" alt="RolloutX"/></a>
-<a href="https://github.com/Udhayaboopathi/Nex-Mail"><img width="49%" src="./images/card-nexmail.svg" alt="Nexudo Mail"/></a>
+<a href="https://www.rolloutx.tech"><img width="49%" src="./images/rolloutx.png" alt="RolloutX"/></a>
+<a href="https://github.com/Udhayaboopathi/Nex-Mail"><img width="49%" src="./images/nexudo-mail.png" alt="Nexudo Mail"/></a>
 
-<a href="https://staffportal.tnteu.ac.in/login"><img width="49%" src="./images/card-tnteu.svg" alt="TNTEU Staff Portal"/></a>
-<a href="https://github.com/Udhayaboopathi/smart-qa"><img width="49%" src="./images/card-smartqa.svg" alt="Smart Summarization"/></a>
+<a href="https://staffportal.tnteu.ac.in/login"><img width="49%" src="./images/tnteu-portal.png" alt="TNTEU Staff Portal"/></a>
+<a href="https://github.com/Udhayaboopathi/smart-qa"><img width="49%" src="./images/smart-qa.png" alt="Smart Summarization"/></a>
+
+<img width="49%" src="./images/food-recommender.png" alt="Organic Food Recommender"/>
+<img width="49%" src="./images/cicd.png" alt="DevOps CI/CD"/>
 
 </div>
 
@@ -429,7 +380,7 @@ Currently, I develop and maintain the **TNTEU Staff Portal** — a live producti
 
 | Attribute | Details |
 |:----------|:--------|
-| **Description** | Production staff management portal for Tamil Nadu Teachers Education University |
+| **Description** | Key production platform at TNTEU — staff management system serving university staff across Tamil Nadu |
 | **Frontend** | React.js with role-based UI rendering |
 | **Backend** | FastAPI with JWT authentication and 2FA |
 | **Database** | PostgreSQL with optimized queries for large datasets |
@@ -474,28 +425,6 @@ Currently, I develop and maintain the **TNTEU Staff Portal** — a live producti
 | **Dataset** | 1,000+ organic food items with nutritional metadata |
 
 </details>
-
----
-
-## 📸 Project Screenshots
-
-<div align="center">
-
-| RolloutX Dashboard | Nexudo Mail Inbox |
-|:----------------:|:-----------------:|
-| <img src="./images/rolloutx.svg" alt="RolloutX Dashboard" width="100%"/> | <img src="./images/nexudo-mail.svg" alt="Nexudo Mail Inbox" width="100%"/> |
-
-| TNTEU Staff Portal | Smart Summarization Q&A |
-|:------------------:|:-----------------------:|
-| <img src="./images/tnteu-portal.svg" alt="TNTEU Staff Portal" width="100%"/> | <img src="./images/smart-qa.svg" alt="Smart Summarization" width="100%"/> |
-
-| Organic Food Recommender | DevOps CI/CD Pipeline |
-|:------------------------:|:---------------------:|
-| <img src="./images/food-recommender.svg" alt="Organic Food Recommender" width="100%"/> | <img src="./images/cicd.svg" alt="CI/CD Pipeline" width="100%"/> |
-
-<sub>📁 Add your real screenshots to the <code>images/</code> folder — see <a href="./images/README.md">images/README.md</a> for file names</sub>
-
-</div>
 
 ---
 
@@ -679,10 +608,10 @@ mindmap
 
 | # | Role | Organization | Duration | Key Responsibilities |
 |:-:|:-----|:-------------|:---------|:---------------------|
-| 1 | **Developer** | Tamil Nadu Teachers Education University (TNTEU) | 2024 — Present | Staff Portal development, production deployment, RBAC implementation, database optimization |
-| 2 | **Data Analyst & Junior Developer** | Nexudo Tech Solutions | 2023 — 2024 | Data analysis pipelines, Nexudo Mail platform, API development, client deliverables |
-| 3 | **Linux Server Administrator** | Periyar University | 2022 — 2023 | Server maintenance, security hardening, backup automation, network configuration |
-| 4 | **MERN Stack Intern** | Arttifai Tech | 2022 | Full-stack web development, MongoDB integration, REST API design, agile workflows |
+| 1 | **Developer** | TNTEU, Chennai | 2026 — Present | Full-stack & DevOps engineering — production web platforms, Docker/Linux deployment, CI/CD, APIs, databases, security |
+| 2 | **Linux Server Administrator** | Periyar University | 2025 — 2026 | Part-time during college — server maintenance, security, backups, network configuration |
+| 3 | **Data Analyst & Junior Developer** | Nexudo Tech Solutions | 2025 | Internship — data analysis, API development, client deliverables |
+| 4 | **MERN Stack Intern** | Arttifai Tech | 2025 | Full-stack development, MongoDB, REST APIs, agile workflows |
 
 </div>
 
@@ -690,58 +619,35 @@ mindmap
 
 ## 📅 Timeline
 
-<div align="center">
-
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00f5ff', 'primaryTextColor': '#fff', 'lineColor': '#39ff14', 'secondaryColor': '#161b22'}}}%%
+timeline
+    title Career & Education Journey
+    section Education
+        2021 : B.Sc Computer Science
+             : Govt. Arts and Science College
+        2024 : M.Sc Computer Science
+             : Periyar University
+    section Experience
+        2025 : MERN Stack Intern
+             : Arttifai Tech
+        2025 : Linux Server Admin (Part-time)
+             : Periyar University
+        2025 : Data Analyst & Jr. Developer (Intern)
+             : Nexudo Tech Solutions
+        2026 : Developer
+             : TNTEU, Chennai
 ```
-2021 ─────────────────────────────────────────────────────────────── 2026
-  │                                                                      │
-  ├─ B.Sc Computer Science (Govt. Arts & Science College)             │
-  │   2021 ─────────────────────────────── 2024                         │
-  │                                                                      │
-  ├─ MERN Stack Intern @ Arttifai Tech ──── 2022                        │
-  │                                                                      │
-  ├─ Linux Server Admin @ Periyar University ──── 2022 ──── 2023        │
-  │                                                                      │
-  ├─ Data Analyst & Jr. Developer @ Nexudo Tech ──── 2023 ──── 2024     │
-  │                                                                      │
-  ├─ Developer @ TNTEU ──────────────────────────────── 2024 ──►       │
-  │                                                                      │
-  ├─ M.Sc Computer Science (Periyar University)                        │
-  │   2024 ──────────────────────────────────────────── 2026            │
-  │                                                                      │
-  ├─ RolloutX PaaS Development ──────────────────────── 2024 ──►       │
-  │                                                                      │
-  ├─ Nexudo Mail Platform ───────────────────────────── 2024 ──►       │
-  │                                                                      │
-  └─ Smart QA & AI Projects ───────────────────────────── 2024 ──►       │
-```
-
-</div>
 
 <br/>
 
-<details>
-<summary><b>📅 Detailed Career Timeline (Click to expand)</b></summary>
-
-<br/>
-
-| Year | Month | Milestone |
-|:-----|:------|:----------|
-| 2021 | Aug | Started B.Sc Computer Science at Government Arts and Science College |
-| 2022 | Jan | MERN Stack Internship at Arttifai Tech — first production experience |
-| 2022 | Jun | Linux Server Administrator at Periyar University |
-| 2023 | Jan | Data Analyst & Junior Developer at Nexudo Tech Solutions |
-| 2023 | Jun | Built Organic Food Recommendation System with NLP |
-| 2024 | Jan | Developer role at TNTEU — Staff Portal project begins |
-| 2024 | Mar | Started M.Sc Computer Science at Periyar University |
-| 2024 | Jun | Architected and launched RolloutX self-hosted PaaS |
-| 2024 | Sep | Nexudo Mail enterprise platform development |
-| 2024 | Nov | Smart Summarization & Q&A with OpenAI + Gemini |
-| 2025 | Jan | TNTEU Staff Portal goes live in production |
-| 2025 | Mar | GitHub profile automation with Actions workflows |
-| 2025 | Present | Continuing M.Sc, scaling RolloutX and Nexudo Mail |
-
-</details>
+| Year | Milestone |
+|:-----|:----------|
+| **2021 – 2024** | B.Sc Computer Science — Government Arts and Science College |
+| **2025** | MERN Stack Internship — Arttifai Tech |
+| **2025 – 2026** | Linux Server Administrator (Part-time) — Periyar University |
+| **2025** | Data Analyst & Junior Developer (Intern) — Nexudo Tech Solutions |
+| **2026** | Developer — TNTEU, Chennai |
 
 ---
 
@@ -782,7 +688,7 @@ mindmap
 
 | Achievement | Description |
 |:------------|:------------|
-| 🏛️ **Production Deployment** | Deployed TNTEU Staff Portal serving university staff statewide |
+| 🏛️ **TNTEU Production Systems** | Full-stack & DevOps at TNTEU Chennai — web platforms, Staff Portal, statewide deployment |
 | 🧱 **PaaS Architecture** | Built RolloutX reducing deployment effort by 70% |
 | 📧 **Enterprise Platform** | Architected multi-tenant Nexudo Mail with RBAC & campaigns |
 | 🧠 **AI Integration** | Smart QA platform handling 500+ queries/session under 500ms |
@@ -801,15 +707,15 @@ mindmap
 
 ### 📈 Stats Overview
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Udhayaboopathi&show_icons=true&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Udhayaboopathi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=39ff14" alt="GitHub Stats"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayaboopathi&layout=compact&theme=radical&bg_color=0a0a0f&hide_border=true&border_radius=12&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Udhayaboopathi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
 ### 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udhayaboopathi&theme=radical&background=0a0a0f&border=00f5ff&stroke=00f5ff&ring=ff00ff&fire=39ff14&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=ff00ff&sideLabels=ff00ff&dates=39ff14&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Udhayaboopathi&theme=dark&background=0D1117&border=00f5ff&stroke=00f5ff&ring=ff00ff&fire=39ff14&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=ff00ff&sideLabels=8892b0&dates=39ff14&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -827,7 +733,7 @@ mindmap
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Udhayaboopathi&theme=discord&no-frame=false&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Udhayaboopathi&theme=onedark&no-frame=false&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
 
 <br/><br/>
 
@@ -839,13 +745,13 @@ mindmap
 
 ### 📋 Profile Summary Cards
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udhayaboopathi&theme=radical" alt="Profile Details"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udhayaboopathi&theme=radical" alt="Repos per Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udhayaboopathi&theme=github_dark" alt="Profile Details"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udhayaboopathi&theme=github_dark" alt="Repos per Language"/>
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udhayaboopathi&theme=radical" alt="Most Commit Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udhayaboopathi&theme=radical" alt="Stats Card"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udhayaboopathi&theme=github_dark" alt="Most Commit Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udhayaboopathi&theme=github_dark" alt="Stats Card"/>
 
 <br/><br/>
 
@@ -1159,7 +1065,7 @@ Both workflows commit directly to `main`. Enable **Settings → Actions → Gene
 
 <br/>
 
-<sub>Built with 💚 by <a href="https://github.com/Udhayaboopathi">Udhayaboopathi</a> · Salem, Tamil Nadu, India · <a href="https://udhayaboopathi.tech">udhayaboopathi.tech</a></sub>
+<sub>Built with 💚 by <a href="https://github.com/Udhayaboopathi">Udhayaboopathi</a> · Chennai, Tamil Nadu, India · <a href="https://udhayaboopathi.tech">udhayaboopathi.tech</a></sub>
 
 <br/>
 
@@ -1171,5 +1077,5 @@ Both workflows commit directly to `main`. Enable **Settings → Actions → Gene
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      END OF PROFILE README · Udhayaboopathi · Full Stack & DevOps Engineer
-     Last Updated: 2025 · Salem, Tamil Nadu, India
+     Last Updated: 2026 · Chennai, Tamil Nadu, India
      ═══════════════════════════════════════════════════════════════════════════ -->
