@@ -61,7 +61,7 @@
 
 I'm **Udhayaboopathi** — a **Full Stack & DevOps Engineer** based in **Chennai, Tamil Nadu, India**. I build production systems from React frontends to containerized FastAPI backends, self-hosted PaaS platforms, and enterprise multi-tenant applications.
 
-Currently working at **Tamil Nadu Teachers Education University (TNTEU), Chennai** — designing, developing, and deploying production web platforms, managing DevOps pipelines, and building secure full-stack systems for the university. Also pursuing **M.Sc. Computer Science** at Periyar University, Salem.
+Currently working at **Tamil Nadu Teachers Education University (TNTEU), Chennai** — designing, developing, and deploying production web platforms, managing DevOps pipelines, and building secure full-stack systems for the university. Completing my **M.Sc. Computer Science** at Periyar University, Salem.
 
 <br/>
 
@@ -80,12 +80,12 @@ work:
   - REST APIs, databases & security (JWT, RBAC, 2FA)
   - Staff Portal & university digital platforms
 education:
-  - M.Sc Computer Science, Periyar University (2024–2026)
+  - M.Sc Computer Science, Periyar University (2024–2026, completing)
   - B.Sc Computer Science, Govt. Arts and Science College (2021–2024)
 experience:
   - Developer, TNTEU Chennai (2026–Present)
-  - Linux Server Administrator, Periyar University — part-time (2025–2026)
-  - Data Analyst & Junior Developer, Nexudo Tech Solutions — intern (2025)
+  - Linux Server Administrator, Periyar University — part-time (2025–2026, concurrent)
+  - Developer & DevOps, Nexudo Tech Solutions (2025–2026, concurrent)
   - MERN Stack Intern, Arttifai Tech (2025)
 links:
   portfolio: https://udhayaboopathi.tech
@@ -606,11 +606,13 @@ mindmap
 
 <div align="center">
 
+> **2025 – 2026:** Worked **multiple roles at the same time** — Linux Server Administrator (part-time) at Periyar University **and** Developer & DevOps at Nexudo Tech Solutions.
+
 | # | Role | Organization | Duration | Key Responsibilities |
 |:-:|:-----|:-------------|:---------|:---------------------|
 | 1 | **Developer** | TNTEU, Chennai | 2026 — Present | Full-stack & DevOps engineering — production web platforms, Docker/Linux deployment, CI/CD, APIs, databases, security |
-| 2 | **Linux Server Administrator** | Periyar University | 2025 — 2026 | Part-time during college — server maintenance, security, backups, network configuration |
-| 3 | **Data Analyst & Junior Developer** | Nexudo Tech Solutions | 2025 | Internship — data analysis, API development, client deliverables |
+| 2 | **Linux Server Administrator** *(part-time)* | Periyar University | 2025 — 2026 | Server maintenance, security, backups, network configuration — *concurrent with Nexudo* |
+| 3 | **Developer & DevOps** | Nexudo Tech Solutions | 2025 — 2026 | Full-stack development, DevOps pipelines, API development, client deliverables — *concurrent with Periyar* |
 | 4 | **MERN Stack Intern** | Arttifai Tech | 2025 | Full-stack development, MongoDB, REST APIs, agile workflows |
 
 </div>
@@ -620,34 +622,31 @@ mindmap
 ## 📅 Timeline
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00f5ff', 'primaryTextColor': '#fff', 'lineColor': '#39ff14', 'secondaryColor': '#161b22'}}}%%
-timeline
-    title Career & Education Journey
+gantt
+    title Career and Education Journey
+    dateFormat YYYY-MM
+    axisFormat %Y
+
     section Education
-        2021 : B.Sc Computer Science
-             : Govt. Arts and Science College
-        2024 : M.Sc Computer Science
-             : Periyar University
+    BSc Computer Science            :done, bsc, 2021-06, 2024-05
+    MSc Computer Science            :active, msc, 2024-06, 2026-05
+
     section Experience
-        2025 : MERN Stack Intern
-             : Arttifai Tech
-        2025 : Linux Server Admin (Part-time)
-             : Periyar University
-        2025 : Data Analyst & Jr. Developer (Intern)
-             : Nexudo Tech Solutions
-        2026 : Developer
-             : TNTEU, Chennai
+    MERN Stack Intern Arttifai      :done, art, 2025-01, 2025-12
+    Linux Server Admin Periyar      :done, linux, 2025-01, 2026-06
+    Developer DevOps Nexudo         :done, nexudo, 2025-01, 2026-06
+    Developer TNTEU Chennai           :active, tnteu, 2026-01, 2027-12
 ```
 
 <br/>
 
-| Year | Milestone |
-|:-----|:----------|
+| Period | Milestone |
+|:-------|:----------|
 | **2021 – 2024** | B.Sc Computer Science — Government Arts and Science College |
+| **2024 – 2026** | M.Sc Computer Science — Periyar University *(completing)* |
 | **2025** | MERN Stack Internship — Arttifai Tech |
-| **2025 – 2026** | Linux Server Administrator (Part-time) — Periyar University |
-| **2025** | Data Analyst & Junior Developer (Intern) — Nexudo Tech Solutions |
-| **2026** | Developer — TNTEU, Chennai |
+| **2025 – 2026** | **Concurrent roles:** Linux Server Administrator *(part-time)* — Periyar University **+** Developer & DevOps — Nexudo Tech Solutions |
+| **2026 – Present** | Developer — TNTEU, Chennai |
 
 ---
 
@@ -657,7 +656,7 @@ timeline
 
 | Degree | Institution | Duration | Status | Focus Areas |
 |:-------|:------------|:---------|:------:|:------------|
-| **M.Sc. Computer Science** | Periyar University, Salem | 2024 — 2026 | 🟢 Ongoing | Advanced Algorithms, Cloud Computing, AI/ML, Research |
+| **M.Sc. Computer Science** | Periyar University, Salem | 2024 — 2026 | 🟡 Completing | Advanced Algorithms, Cloud Computing, AI/ML, Research |
 | **B.Sc. Computer Science** | Government Arts and Science College | 2021 — 2024 | ✅ Completed | Programming, Databases, Web Development, OS |
 
 </div>
@@ -692,8 +691,8 @@ timeline
 | 🧱 **PaaS Architecture** | Built RolloutX reducing deployment effort by 70% |
 | 📧 **Enterprise Platform** | Architected multi-tenant Nexudo Mail with RBAC & campaigns |
 | 🧠 **AI Integration** | Smart QA platform handling 500+ queries/session under 500ms |
-| 🐧 **Server Administration** | Managed Linux servers for Periyar University |
-| 🎓 **Academic Excellence** | Pursuing M.Sc. while leading production development |
+| 🐧 **Server Administration** | Managed Linux servers at Periyar University while working DevOps at Nexudo (2025–2026) |
+| 🎓 **Academic Excellence** | Completing M.Sc. while leading production development at TNTEU |
 | ⭐ **Open Source** | Active GitHub contributor with multiple production projects |
 | 🔄 **CI/CD Automation** | Automated profile metrics and snake animation via GitHub Actions |
 
@@ -898,68 +897,6 @@ graph LR
     style DEPLOY fill:#0a0a0f,stroke:#39ff14,color:#39ff14
     style METRICS fill:#0a0a0f,stroke:#00f5ff,color:#00f5ff
 ```
-
----
-
-## ⚙️ GitHub Actions Workflows
-
-<div align="center">
-
-| Workflow | File | Schedule | Description |
-|:---------|:-----|:---------|:------------|
-| 🐍 **Snake Animation** | `.github/workflows/snake.yml` | Daily at 00:00 UTC | Generates contribution snake SVG (`#00f5ff` snake) → saves to `assets/snake.svg` |
-| 📊 **GitHub Metrics** | `.github/workflows/metrics.yml` | Daily at 06:00 UTC | Generates metrics SVG — commits to `assets/github-metrics.svg` |
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>🐍 snake.yml — Snake Animation Workflow Details</b></summary>
-
-<br/>
-
-```yaml
-# Key Configuration:
-uses: Platane/snk@v3.5.0
-outputs: dist/snake.svg (cyberpunk theme)
-save_to: assets/snake.svg
-schedule: "0 0 * * *" (daily midnight UTC)
-```
-
-**Features:**
-- Custom cyberpunk color scheme matching profile theme
-- Commits directly to `main` branch
-- Manual trigger available via `workflow_dispatch`
-
-</details>
-
-<details>
-<summary><b>📊 metrics.yml — GitHub Metrics Workflow Details</b></summary>
-
-<br/>
-
-```yaml
-# Key Plugins Enabled:
-- achievements (threshold: B, secrets: yes)
-- activity (14 days, all events)
-- calendar, isocalendar (full year)
-- languages (8 languages, 14 recent days)
-- habits (charts, facts, 14 days)
-- lines (base + history)
-- notable (commits, PRs, issues)
-- people (followers, following)
-- reactions, stargazers, stars
-- traffic (pages, referrers)
-```
-
-**Features:**
-- Timezone: Asia/Kolkata
-- Animated typing display
-- Commits to `assets/github-metrics.svg` on `main`
-- Comprehensive developer activity dashboard
-
-</details>
 
 ---
 
